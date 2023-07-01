@@ -20,13 +20,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://github.com/tobyqin">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tobyqin&theme=react" />
-</a>
-
-## Streak
-
-<a href="https://github.com/tobyqin">
-<img height=200 alight="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobyqin&theme=react" />
+<img height=200 alight="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobyqin&theme=react&card_width=400" />
 </a>
 
 ## Tech stacks
