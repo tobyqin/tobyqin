@@ -1,10 +1,10 @@
 <div>
 <a href="https://github.com/tobyqin">
-  <img height=200  width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=tobyqin&theme=react" />
+  <img height=200  width="49%" src="https://github-readme-stats.vercel.app/api?username=tobyqin&theme=react" />
 </a>
 
 <a href="https://github.com/tobyqin">
-<img height=200  width="49%" alight="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobyqin&theme=react" />
+<img height=200  width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tobyqin&theme=react" />
 </a>
 </div>
 
