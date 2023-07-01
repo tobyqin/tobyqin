@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://github.com/tobyqin">
-  <img width=49% src="https://github-readme-stats.vercel.app/api?username=tobyqin&card_width=500&include_all_commits=true&theme=react" />
+  <img width=49% height=200 src="https://github-readme-stats.vercel.app/api?username=tobyqin&card_width=500&include_all_commits=true&theme=react" />
 </a>
 <a href="https://github.com/tobyqin">
-  <img width=49% src="https://github-readme-stats.vercel.app/api/top-langs?username=tobyqin&layout=compact&langs_count=8&card_width=320&theme=react" />
+  <img width=49% height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=tobyqin&layout=compact&langs_count=8&card_width=320&theme=react" />
 </a>
 </div>
 
