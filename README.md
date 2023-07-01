@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div>
 <a href="https://github.com/tobyqin">
   <img height=200  width="49%"  align="center" src="https://github-readme-stats.vercel.app/api?username=tobyqin&theme=react" />
 </a>
@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/tobyqin">
 <img height=200  width="49%" alight="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tobyqin&theme=react&card_width=400" />
 </a>
+</div>
 
 ## Tech stacks
 
